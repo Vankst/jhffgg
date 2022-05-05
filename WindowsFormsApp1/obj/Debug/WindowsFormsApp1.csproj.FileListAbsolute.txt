@@ -1,0 +1,14 @@
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add.resources
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteForm.resources
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.izm.resources
+G:\ОПБД\ПР3\bd\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sort.resources
